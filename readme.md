@@ -24,7 +24,7 @@ Arquivos:
     efeito de monitor CRT - Adicionar botão 'liga/desliga' para esse efeito
 }
 
-5. pasta JS {}
+5. pasta JS {
     Reservada para códigos JAVA
 
     5.1. script.js: função de selecionar frases aleatórias para a "tela de mensagens";
