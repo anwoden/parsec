@@ -1,13 +1,6 @@
-=============================================
-      ____  ___    ____  _____ ____________
-     / __ \/   |  / __ \/ ___// ____/ ____/
-    / /_/ / /| | / /_/ /\__ \/ __/ / /     
-   / ____/ ___ |/ _  _/___/ / /___/ /___   
-  /_/   /_/  |_/_/ |_|/____/_____/\____/   
-            
-=============================================
-                Task Manager
-=============================================
+PARSEC
+TASK MANAGER:
+
 
 Arquivos:
 1. index.php {
@@ -45,9 +38,7 @@ Arquivos:
     Arquivos que vi utilidade em manter a versão antiga, independente do revisionamento do Git;
 }
 
-=============================================
-                FUNCIONALIDADES
-=============================================
+FUNCIONALIDADES:
 
 a. Ainda é necessário elaborar o código para um sistema funcional de cadastro/login
 b. É preciso encontrar uma maneira de criar gráficos de tarefas dentro da aba perfil, que mostram ao
