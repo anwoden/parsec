@@ -1,13 +1,5 @@
-=============================================
-      ____  ___    ____  _____ ____________
-     / __ \/   |  / __ \/ ___// ____/ ____/
-    / /_/ / /| | / /_/ /\__ \/ __/ / /     
-   / ____/ ___ |/ _  _/___/ / /___/ /___   
-  /_/   /_/  |_/_/ |_|/____/_____/\____/   
-            
-=============================================
-                Task Manager
-=============================================
+parsec
+TASK MANAGER
 
 Arquivos:
 1. index.php {
@@ -45,11 +37,16 @@ Arquivos:
     Arquivos que vi utilidade em manter a versão antiga, independente do revisionamento do Git;
 }
 
-=============================================
-                FUNCIONALIDADES
-=============================================
+FUNCIONALIDADES:
 
 a. Ainda é necessário elaborar o código para um sistema funcional de cadastro/login
 b. É preciso encontrar uma maneira de criar gráficos de tarefas dentro da aba perfil, que mostram ao
     usuário a quantidade de tarefas realizadas, de acordo com tags, etc.
 c. Botão funcional para ativar e desativar o efeito CRT no site, apenas para efeito estético.
+
+
+ALTERAÇÕES:
+03/02/2020-0:33AM
+1. Mudança da extensão da página PERFIL para *.php
+2. Alteração na disposição das informações da página (ainda pode sofrer alterações na estrutura)
+3. Alteração dos links para a página PERFIL, agora PERFIL.PHP

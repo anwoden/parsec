@@ -56,8 +56,21 @@
                 <div class="barraup"></div>
                 <div class="screen">
                     <div class="screen-left">
-                        
-                        
+                        <div class="perfil-info">
+                            <div class="perfil-top">
+                                <div class="pic-square"></div>                              
+                            </div>
+                            <div class="prof-names">
+                                <a class="title-info">USUÁRIO:</a><br>
+                                <a class="phptext"><?php echo "USERNAME" ?></a>
+                                <br><br>
+                                <a class="title-info">ID#:</a><br>
+                                <a class="phptext"><?php echo "ID NUMBER" ?></a>
+                                <br><br>
+                                <a class="title-info">EMAIL:</a><br>
+                                <a class="phptext"><?php echo "EMAIL" ?></a>
+                            </div>
+                        </div>
                         
                     </div>
                     <div class="screen-right">
@@ -81,7 +94,7 @@
               x.style.display = "none";
             }
           }
-    </script></script>>
+    </script></script>
     <script>
         document.getElementById("button").addEventListener("click", function() {
             document.getElementById("Audio").play();

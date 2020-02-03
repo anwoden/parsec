@@ -26,7 +26,7 @@
                             <li><a class="btn" href="/main.html">HOME</a></li>
                             <li><a class="btn" href="/tarefas.html">TAREFAS</a></li>
                             <li><a class="btn" href="/mensagens.html">MENSAGENS</a></li>
-                            <li><a class="btn" href="/perfil.html">PERFIL</a></li>
+                            <li><a class="btn" href="/perfil.php">PERFIL</a></li>
                             <li><a class="btn2" href="#">LOGOFF</a></li>
                         </ul>
                     </nav>
