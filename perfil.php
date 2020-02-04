@@ -71,31 +71,35 @@
                                 <a class="phptext"><?php echo "EMAIL" ?></a>
                             </div>
                         </div>
-                        <div class="item_menu" id="colec">
-                            <a class="iconleft" href="#">COLECIONÁVEIS</a>
-                            <div class="iconright">
-                                <img src="/assets/images/colec.svg">
+                        <div class="perfil-bottom">
+                            <div class="perfil-btns">
+                                <a class="iconleft" href="#">COLECIONÁVEIS</a>
+                                <a class="iconleft" href="#">EXECUTÁVEIS</a>
+                                <a class="iconleft" href="#">DOCUMENTOS</a>
+                                <a class="iconleft" href="#">ACHIEVEMENTS</a>
+                            </div>
+                            <div class="icons">
+                                <div class="iconright">
+                                    <img src="/assets/images/colec.svg">
+                                </div>
+                               <div class="iconright">
+                                    <img src="/assets/images/exec.svg">
+                                </div>
+                                <div class="iconright">
+                                    <img src="/assets/images/docs.svg">
+                                </div>
+                                <div class="iconright">
+                                    <img src="/assets/images/achiev.svg">
+                                </div>                        
                             </div>
                         </div>
-                        <div class="item_menu" id="exec">
-                            <a class="iconleft" href="#">EXECUTÁVEIS</a>
-                            <div class="iconright">
-                                <img src="/assets/images/exec.svg">
+                        <a href="#">
+                            <div class="perfil-footer">
+                                <div class="progresso">
+                                    PROGRESSO
+                                </div>
                             </div>
-                        </div>  
-                        <div class="item_menu" id="exec">
-                            <a class="iconleft" href="#">DOCUMENTOS</a>
-                            <div class="iconright">
-                                <img src="/assets/images/docs.svg">
-                            </div>
-                        </div>  
-                        <div class="item_menu" id="exec">
-                            <a class="iconleft" href="#">ACHIEVEMENTS</a>
-                            <div class="iconright">
-                                <img src="/assets/images/achiev.svg">
-                            </div>
-                        </div>
-                        <a class="progresso" id="progs" href="#">PROGRESSO</a>
+                        </a>
                     </div>
                     <div class="screen-right">
                         <!--apagar aqui caso erro-->

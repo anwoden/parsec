@@ -312,7 +312,7 @@ nav li a {
 }
 
 /*testes*/
-.item_menu {
+/*.item_menu {
     display: flex;
     flex-direction: row;
     height: 85px;
@@ -344,4 +344,62 @@ nav li a {
     line-height: 150px;
     font-size: 20px;
     font-weight: bold;
+}*/
+.perfil-btns {
+    display: flex;
+    flex-direction: column;
+    height: 85px;
+    width: 338px; 
 }
+.perfil-btns :hover {
+    background-color: white;
+    color: black;
+}
+.perfil-bottom {
+    display: flex;
+    flex-direction: row;
+}
+.iconleft {
+    flex: 3;
+    height: 85px;
+    text-align: center;
+    line-height: 85px;
+    font-size: 15px;
+    font-weight: bold;
+    border-bottom: solid 1px white;
+}
+.perfil-btns :hover {
+    background-color: white;
+    box-shadow: 1px 1px 10px white;
+}
+.icons {
+    display: flex;    
+    flex-direction: column;
+}
+.iconright {
+    width: 80px;
+    align-items: center;
+    text-align: center;   
+    height: 85px;
+    border-left: solid 5px white;
+    border-bottom: solid 1px white;
+ }
+ .iconright img {
+     width: 40px;     
+     height: 40px;
+     margin-top: 20px;
+ }
+ .progresso {
+    text-align: center;
+    width: 338px;
+    height: 155px;
+    line-height: 150px;
+    font-size: 20px;
+    font-weight: bold;
+    
+ }
+ .perfil-footer :hover, .perfil-footer :focus {
+     background-color: #fd9a48;
+    color: white;
+    box-shadow: 1px 1px 10px #ff7300; 
+ }
