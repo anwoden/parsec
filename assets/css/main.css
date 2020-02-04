@@ -1,5 +1,6 @@
 * {
     font-family: monospace;
+    color: white;
 }
 body {
     margin: 0;
@@ -307,5 +308,40 @@ nav li a {
 }
 .title-info {
     font-size: 15px;
+    font-weight: bold;
+}
+
+/*testes*/
+.item_menu {
+    display: flex;
+    flex-direction: row;
+    height: 85px;
+    border-bottom: solid 1px white;
+}
+.iconleft {    
+    width: 250px;
+    height: 85px;
+    text-align: center;
+    line-height: 85px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.iconright {
+   width: 85px;
+   align-items: center;
+   text-align: center;   
+   height: 85px;
+   border-left: solid 5px white;
+}
+.iconright img {
+    margin-top: 21px;
+    width: 40px;
+}
+.progresso {
+    text-align: center;
+    width: 340px;
+    height: 152px;
+    line-height: 150px;
+    font-size: 20px;
     font-weight: bold;
 }

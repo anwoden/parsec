@@ -46,7 +46,12 @@ c. Botão funcional para ativar e desativar o efeito CRT no site, apenas para ef
 
 
 ALTERAÇÕES:
-03/02/2020-0:33AM
+03/02/2020 - 0:33
 1. Mudança da extensão da página PERFIL para *.php
 2. Alteração na disposição das informações da página (ainda pode sofrer alterações na estrutura)
 3. Alteração dos links para a página PERFIL, agora PERFIL.PHP
+
+03/02/2020 - 23:04
+1. Removi barra branca das páginas
+2. Melhorei aparência da página de perfil
+3. acrescentei ícones
